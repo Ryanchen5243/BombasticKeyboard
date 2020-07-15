@@ -1,0 +1,58 @@
+body {
+    background-color: #a3f7e9;
+    color: #3c1111;
+}
+
+#Headline {
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-family: 'Modak', cursive;
+    font-size: 35px;
+}
+
+.flexContainerTitles {
+    text-decoration: none;
+    text-align: center;
+}
+
+#main {
+    text-align: center;
+}
+#button {
+    background-color: #0D47A1;
+    border: none;
+    color: #FFF;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 45px;
+}
+
+#button:hover {
+    background-color: #005e78;
+}
+
+.flex-item {
+    width: 33%;
+}
+
+.flex-item-img {
+    width: 100%;
+
+}
+
+.item-titles {
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Modak', cursive;
+}
